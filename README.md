@@ -46,7 +46,3 @@ class About extends Me {
 <img src="https://intro.rustbridge.com/img/ferris.gif" width="300" center>
 
 - 📫 How to reach me **juleipssy.cely@correounivalle.edu.co**
-
-
-
-![Snake animation](https://github.com/Br4z/Br4z/blob/output/github-contribution-grid-snake.svg)
