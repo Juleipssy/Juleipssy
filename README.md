@@ -42,12 +42,6 @@ Me interesa seguir creciendo como desarrolladora, colaborando en proyectos inclu
 
 ---
 
-## 💬 Mensaje final
-
-Junt@s podemos construir una web más inclusiva, divertida y poderosa. Si quieres colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡me encantaría escucharte! 🚀✨
-
----
-
 <p align="center">
   <img src="https://intro.rustbridge.com/img/ferris.gif" width="200" alt="Ferris, la mascota del lenguaje Rust">
 </p>
