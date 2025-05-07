@@ -1,48 +1,53 @@
+# 👋 ¡Hola! Soy Juleipssy
+
+---
+
+## 🚀 Sobre mí
+
+Soy una apasionada programadora de Colombia con experiencia en varios lenguajes y tecnologías. Me encanta aprender, explorar nuevas herramientas y crear soluciones que sean útiles, creativas y accesibles para todos.  
+Me interesa seguir creciendo como desarrolladora, colaborando en proyectos inclusivos y mejorando cada día mis habilidades técnicas.
+
+---
+
+## ✨ Lo que hago
+
+🎓 Estudiante de Ingeniería de Sistemas.  
+🌱 Actualmente aprendiendo sobre **desarrollo backend** y **programación funcional**.
+💡 Apasionada por la resolución de problemas y la mejora continua.
+💬 Me interesa colaborar en proyectos donde pueda aportar y aprender de otros.  
+
+---
+
+## 💻 Top 3 de habilidades y herramientas
+
+✅ Lenguajes: C, C++, Java, JavaScript, Python, Scala, R.  
+✅ Bases de datos: Firebase, SQLite.
+✅ Herramientas y plataformas: VS Code, NetBeans, RStudio, GNU/Linux, Windows.
+
+---
+
+## 🌟 Datos curiosos
+
+🌱 Amante del aprendizaje continuo y la exploración de nuevas tecnologías.  
+☕ Fan del café y los espacios tranquilos para programar.  
+🎨 Me encanta combinar creatividad y código para hacer proyectos visuales e interactivos. 
 
 
-<!--
-**Juleipssy/Juleipssy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📢 ¡Contáctame!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Correo:** juleipssy.cely@correounivalle.edu.co  
+🐙 **GitHub:** [Juleipssy](https://github.com/Juleipssy)
 
+---
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
- 
- 
+## 💬 Mensaje final
 
+Junt@s podemos construir una web más inclusiva, divertida y poderosa. Si quieres colaborar, compartir ideas o simplemente charlar sobre tecnología, ¡me encantaría escucharte! 🚀✨
 
-<br>
+---
+
 <p align="center">
-  <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://user-images.githubusercontent.com/106778736/229592862-5f1c3e6b-703a-46c9-a235-64fc923d6359.gif"width="150"><br><br>
-
-  
-
-<h3 align="center">A passionate programmer from Colombia</h3>
-
-
-
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "C", "C++", "Java", "Javascript", "Python", "Scala", "R"},
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Netbeans", "RStudio" },
-    "Platforms" : { "GNU/Linux", "Windows" }
-  };
-}
-```
-
-<img src="https://intro.rustbridge.com/img/ferris.gif" width="300" center>
-
-- 📫 How to reach me **juleipssy.cely@correounivalle.edu.co**
+  <img src="https://intro.rustbridge.com/img/ferris.gif" width="200" alt="Ferris, la mascota del lenguaje Rust">
+</p>
