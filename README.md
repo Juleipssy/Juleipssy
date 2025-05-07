@@ -1,24 +1,26 @@
-# 👋 ¡Hola! Soy Juleipssy
+# 👋 Hello! I’m Juleipssy
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy una apasionada programadora de Colombia con experiencia en varios lenguajes y tecnologías. Me encanta aprender, explorar nuevas herramientas y crear soluciones que sean útiles, creativas y accesibles para todos.  
-Me interesa seguir creciendo como desarrolladora, colaborando en proyectos inclusivos y mejorando cada día mis habilidades técnicas.
-
----
-
-## ✨ Lo que hago
-
-🎓 Estudiante de Ingeniería de Sistemas.  
-🌱 Actualmente aprendiendo sobre **desarrollo backend** y **programación funcional**.
-💡 Apasionada por la resolución de problemas y la mejora continua.
-💬 Me interesa colaborar en proyectos donde pueda aportar y aprender de otros.  
+I'm a passionate programmer from Colombia with experience in several languages and technologies. I love learning, exploring new tools, and creating useful, creative, and accessible solutions for everyone.  
+I'm eager to continue growing as a developer, collaborating on inclusive projects, and improving my technical skills every day.
 
 ---
 
-## 💻 Top 3 de habilidades y herramientas
+## ✨ What I Do
+
+🎓 Systems Engineering student.  
+🌱 Currently learning about **backend development** and **functional programming**.  
+💡 Passionate about problem-solving and continuous improvement.  
+💬 Interested in collaborating on projects where I can contribute and learn from others.
+
+---
+
+## 💻 Top 3 Skills and Tools
+
+---
 
 ## Languages
 
@@ -32,12 +34,16 @@ Me interesa seguir creciendo como desarrolladora, colaborando en proyectos inclu
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
+---
+
 ## Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+
+---
 
 ## Tools & Platforms
 
@@ -49,25 +55,23 @@ Me interesa seguir creciendo como desarrolladora, colaborando en proyectos inclu
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
+---
+
+## 🌟 Fun Facts
+
+🌱 Lover of continuous learning and exploring new technologies.  
+☕ Coffee fan who enjoys quiet spaces to code.  
+🎨 I love combining creativity and code to make visual and interactive projects.
 
 ---
 
-## 🌟 Datos curiosos
+## 📢 Contact Me!
 
-🌱 Amante del aprendizaje continuo y la exploración de nuevas tecnologías.  
-☕ Fan del café y los espacios tranquilos para programar.  
-🎨 Me encanta combinar creatividad y código para hacer proyectos visuales e interactivos. 
-
-
----
-
-## 📢 ¡Contáctame!
-
-📧 **Correo:** juleipssy.cely@correounivalle.edu.co  
+📧 **Email:** juleipssy.cely@correounivalle.edu.co  
 🐙 **GitHub:** [Juleipssy](https://github.com/Juleipssy)
 
 ---
 
 <p align="center">
-  <img src="https://intro.rustbridge.com/img/ferris.gif" width="200" alt="Ferris, la mascota del lenguaje Rust">
+  <img src="https://intro.rustbridge.com/img/ferris.gif" width="200" alt="Ferris, the Rust language mascot">
 </p>
